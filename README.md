@@ -1,3 +1,28 @@
+# Next.js TypeScript Template with Auto Code Formatting in VSCode
+
+## Getting Started
+
+`git clone https://github.com/huydhoang/next-typescript-template.git`
+
+## Auto Code Formatting
+
+Auto Code Formatting for TypeScript was setup using ESLint and Prettier in VSCode.
+Simply turn on `Editor: Format On Save` feature within VSCode and let the magic happen.
+
+`File > Preferences > Search 'Format On Save'`
+
+References:
+
+https://jaywolfe.dev/blog/automate-code-cleanliness-in-vscode-with-typescript-eslint-and-prettier/
+
+https://stackoverflow.com/questions/53516594/why-do-i-keep-getting-delete-cr-prettier-prettier
+
+https://qvault.io/clean-code/how-to-get-consistent-line-breaks-in-vs-code-lf-vs-crlf/
+
+---
+
+# Next's Original Readme
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

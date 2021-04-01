@@ -1,7 +1,8 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from 'next/head';
+import Link from 'next/link';
+import styles from '../styles/Home.module.css';
 
-export default function Home() {
+export default function Home(): JSX.Element {
   return (
     <div className={styles.container}>
       <Head>
@@ -11,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Go to <Link href="/example">Example Page</Link>
         </h1>
 
         <p className={styles.description}>
@@ -61,5 +62,5 @@ export default function Home() {
         </a>
       </footer>
     </div>
-  )
+  );
 }
