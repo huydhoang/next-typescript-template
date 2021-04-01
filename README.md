@@ -29,7 +29,9 @@ Simply turn on `Editor: Format On Save` feature within VSCode and let the magic 
 
 `File > Preferences > Search 'Format On Save'`
 
-References:
+## References:
+
+https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h
 
 https://jaywolfe.dev/blog/automate-code-cleanliness-in-vscode-with-typescript-eslint-and-prettier/
 
