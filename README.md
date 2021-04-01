@@ -1,8 +1,26 @@
-# Next.js TypeScript Template with Auto Code Formatting in VSCode
+# Next.js TypeScript Template with Auto Code Formatting
 
 ## Getting Started
 
-`git clone https://github.com/huydhoang/next-typescript-template.git`
+```bash
+git clone https://github.com/huydhoang/next-typescript-template.git
+cd next-typescript-template
+pnpm dev
+```
+
+[pnpm](https://pnpm.js.org/) is a cool alternative to `yarn` or `npm` as it is faster and can reuse downloaded packages to reduce the size of `node_modules`.
+
+If you use `yarn`
+
+```bash
+yarn dev
+```
+
+or `npm`
+
+```bash
+npm run dev
+```
 
 ## Auto Code Formatting
 
