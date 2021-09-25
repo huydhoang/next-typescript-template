@@ -1,3 +1,8 @@
+# This project is now deprecated.
+Deprecated in favor of the Next.js's official TypeScript template
+https://nextjs.org/docs/basic-features/typescript
+
+---
 # Next.js TypeScript Template with Auto Code Formatting
 
 ## Getting Started
